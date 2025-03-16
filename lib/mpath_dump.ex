@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Connor Rigby
+#
+# SPDX-License-Identifier: Apache-2.0
+#
 defmodule MeshDebugTools.MpathDump do
   def collect(ifname) do
     [{["interface", ^ifname, "mac_address"], mac}] =

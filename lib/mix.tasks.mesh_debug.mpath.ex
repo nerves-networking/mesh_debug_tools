@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Connor Rigby
+#
+# SPDX-License-Identifier: Apache-2.0
+#
 defmodule Mix.Tasks.MeshDebug.Mpath do
   @shortdoc "mix mesh_debug.mpath meshy-gateway-4877.local mesh0"
   @moduledoc """

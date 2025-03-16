@@ -1,5 +1,7 @@
 # MeshDebugTools
 
+[![REUSE status](https://api.reuse.software/badge/github.com/nerves-networking/mesh_debug_tools)](https://api.reuse.software/info/github.com/nerves-networking/mesh_debug_tools)
+
 ## Mpath Dump
 
 ```elixir
